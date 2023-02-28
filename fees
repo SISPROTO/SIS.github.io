@@ -1,1 +1,35 @@
-
+<html>
+    <head>
+<style>
+    th, td{
+        border: 1px solid #333;
+        padding: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+</style>
+    </head>
+    <body>
+        <P><a href="index.html">Home</a></P>
+        <table>
+            <tr>
+           <th>FEES & FINES</th> 
+            
+            </tr>
+            <tr>
+            <td> ID BADGE $5.00</td>
+            </tr>
+             <tr>
+            <td> ID BADGE $5.00 </td>
+            </tr>
+             <tr>
+            <td> REPLACEMENT LANYARD $3.00</td>
+            </tr>
+             <tr>
+            <td> COMPUTER CHARGER $23.01 (REMOVED) </td>
+            </tr>
+            
+                
+            
+        </table>
+    </body>
+</html>
